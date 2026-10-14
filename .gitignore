@@ -1,0 +1,6 @@
+# Fichiers de variables d'environnement (peuvent contenir des mots de passe)
+.env
+*.env
+
+# Configuration d'IntelliJ (propre à ton PC)
+.idea/
